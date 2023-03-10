@@ -1,7 +1,7 @@
 # Onlinesim Python API
 
 Wrapper for automatic reception of SMS-messages by onlinesim.ru
-
+https://documenter.getpostman.com/view/283141/onlinesimru-receiving-sms/RVnYBHwN#6c373ac2-0d34-4a4e-a1c1-f037428c59c1
 [![N|Solid](https://img.shields.io/pypi/pyversions/onlinesimru.svg)](https://pypi.python.org/pypi/onlinesimru)
 ![Python publish](https://github.com/s00d/onlinesim-python-api/workflows/Python%20publish/badge.svg)
 
